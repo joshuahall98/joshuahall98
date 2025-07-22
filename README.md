@@ -5,6 +5,7 @@
 - 📫 How to reach me joshuahall98@live.com
 
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuahall98&show_icons=true)](https://github.com/joshuahall98/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuahall98)](https://github.com/joshuahall98/github-readme-stats)
 
 <!---
