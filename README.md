@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game Design Projects 
 - 📫 How to reach me joshuahall98@live.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuahall98)](https://github.com/joshuahall98/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuahall98&show_icons=true)](https://github.com/joshuahall98/github-readme-stats)
 
 <!---
 joshuahall98/joshuahall98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
